@@ -333,12 +333,7 @@ end
 -- PLUGIN:CanClientLogin()
 -- Saves the player data to file
 -- *******************************************
---local SteamIDField = util.GetFieldGetter(RustFirstPass.SteamLogin, "SteamID", true)
 local SteamIDField = util.GetFieldGetter( Rust.ClientConnection, "UserID", true )
---local SteamIDField = util.GetFieldGetter(RustFirstPass.ClientConnection, "UserID", true)
---local PlayerClientAll = util.GetStaticPropertyGetter(RustFirstPass.PlayerClient, "All")
---local serverMaxPlayers = util.GetStaticFieldGetter(RustFirstPass.server, "maxplayers")
---function PLUGIN:CanClientLogin(login)
 function PLUGIN:CanClientLogin(approval, connection)
   if (not flags_plugin) then
     error("This plugin requires Flags to be installed! Check here: http://forum.rustoxide.com/resources/flags.155")
@@ -356,8 +351,8 @@ function PLUGIN:CanClientLogin(approval, connection)
   end
   
   -- Get the maximum number of players
-  local maxplayers = RustFirstPass.server.maxplayers
-  local curplayers = RustFirstPass.PlayerClient.All.Count
+  local maxplayers = Rust.server.maxplayers
+  local curplayers = Rust.PlayerClient.All.Count
   
   -- Are we biting into reserved slots?
   if (curplayers + self.Config.reservedslots >= maxplayers) then
