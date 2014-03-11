@@ -1,0 +1,9 @@
+{
+  "chatname":"Oxmin",
+  "showdisconnectedmessage":false,
+  "reservedslots":5,
+  "helptext":["Welcome to the server!","This server is powered by the Oxide Modding API for Rust.","Use /who to see how many players are online."],
+  "showconnectedmessage":false,
+  "showwelcomenotice":false,
+  "welcomenotice":"Welcome to the server %s! Type /help for a list of commands."
+}

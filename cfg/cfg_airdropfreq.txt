@@ -1,0 +1,10 @@
+{
+  "dropmessage":"AFC空投开始！",
+  "drops":1,
+  "minplayers":5,
+  "daydelay"0,
+  "tierdrop":1,
+  "realtimedrop":3600,
+  "lasthour":16,
+  "firsthour":8
+}

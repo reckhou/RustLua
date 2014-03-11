@@ -1,0 +1,4 @@
+{
+  "serverAdminSteamId":"STEAM_0:X:XXXXXX",
+  "preformWebRequests":true
+}

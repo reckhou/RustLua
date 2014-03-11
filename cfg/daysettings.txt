@@ -1,0 +1,14 @@
+{
+    "DayRcon": [
+        "server.pvp true",
+        "crafting.instant false",
+        "crafting.timescale 1",
+        "say \"新的一天开始了，建造速度恢复正常\""
+    ],
+    "NightRcon": [
+        "server.pvp true",
+        "crafting.timescale 0.1",
+        "crafting.instant true",
+        "say \"夜幕降临，瞬间建造开启！\""
+    ]
+}

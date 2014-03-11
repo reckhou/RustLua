@@ -1,0 +1,11 @@
+{
+  "AllowBannedCharacters":false,
+  "Language":"English",
+  "AllowDuplicateNames":false,
+  "Names":"Admin;Server;Rust;Oxide;Oxmin;Facepunch",
+  "AllowDuplicateNamesCaseSensitive":false,
+  "ReportToChat":true,
+  "Languages":"english, german, deutsch, dutch, nederlands, portuguese, pt-br",
+  "AllowBannedNames":false,
+  "Characters":"abcdefghijklmnopqrstuvwxyz1234567890 [](){}!?<>@#*_-=+,.|\/:"
+}

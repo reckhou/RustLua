@@ -1,0 +1,6 @@
+{
+  "ExplosionWoodWallsActive":1,
+  "ExplosionsActive":1,
+  "ExplosionMetalWallsActive":1,
+  "ExplosionDamage":70
+}

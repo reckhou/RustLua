@@ -1,0 +1,5 @@
+{
+  "display_distance_and_direction":true,
+  "plugin_enabled":true,
+  "display_location":true
+}

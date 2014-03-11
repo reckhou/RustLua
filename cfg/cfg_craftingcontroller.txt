@@ -1,0 +1,8 @@
+{
+  "blockblueprintmessage":"This blueprint has been disabled.",
+  "BlockedCrafting":[],
+  "blockcraftingmessage":"Crafting this item has been blocked.",
+  "BlockedResearching":[],
+  "blockresearchmessage":"Researching this item has been blocked.",
+  "BlockedBlueprints":[]
+}

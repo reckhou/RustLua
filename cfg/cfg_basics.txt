@@ -1,0 +1,9 @@
+{
+  "showconnectedmessage":true,
+  "helptext":["欢迎来到外挂屠夫!","使用/help获取命令帮助","使用/location获取坐标","使用/list获取在线列表"],
+  "showdisconnectedmessage":false,
+  "chatname":"管理员",
+  "showwelcomenotice":false,
+  "welcomenotice":"Welcome to the server %s! Type /help for a list of commands.",
+  "reservedslots":2
+}

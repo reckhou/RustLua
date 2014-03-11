@@ -1,0 +1,1192 @@
+{
+  "BlueprintSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Explosive Charge Blueprint"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":30,
+        "object":"P250 Blueprint"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"Shotgun Blueprint"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"Flashlight Mod BP"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"Laser Sight BP"
+      },
+      "6":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"Holo sight BP"
+      },
+      "7":{
+        "max":1,
+        "min":1,
+        "weight":10,
+        "object":"Silencer BP"
+      },
+      "8":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"9mm Pistol Blueprint"
+      },
+      "9":{
+        "max":1,
+        "min":1,
+        "weight":40,
+        "object":"F1 Grenade Blueprint"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"Large Wood Storage Blueprint"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "MetalBuildingPartsList":{
+    "nodupes":true,
+    "packages":{
+      "1":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Ceiling"
+      },
+      "2":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Doorway"
+      },
+      "3":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Foundation"
+      },
+      "4":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Pillar"
+      },
+      "5":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Ramp"
+      },
+      "6":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Stairs"
+      },
+      "7":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Wall"
+      },
+      "8":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Window"
+      },
+      "0":{
+        "max":2,
+        "min":1,
+        "weight":1,
+        "object":"Metal Door"
+      }
+    },
+    "oneofeach":false,
+    "max":3,
+    "min":1
+  },
+  "WoodStructureSpawnList":{
+    "nodupes":true,
+    "packages":{
+      "1":{
+        "max":20,
+        "min":1,
+        "weight":30,
+        "object":"Wood Doorway BP"
+      },
+      "2":{
+        "max":20,
+        "min":1,
+        "weight":30,
+        "object":"Wood Foundation BP"
+      },
+      "3":{
+        "max":30,
+        "min":1,
+        "weight":30,
+        "object":"Wood Pillar BP"
+      },
+      "4":{
+        "max":30,
+        "min":1,
+        "weight":30,
+        "object":"Wood Ramp BP"
+      },
+      "5":{
+        "max":30,
+        "min":1,
+        "weight":30,
+        "object":"Wood Stairs BP"
+      },
+      "6":{
+        "max":30,
+        "min":1,
+        "weight":30,
+        "object":"Wood Wall BP"
+      },
+      "7":{
+        "max":30,
+        "min":1,
+        "weight":30,
+        "object":"Wood Window BP"
+      },
+      "0":{
+        "max":20,
+        "min":1,
+        "weight":40,
+        "object":"Wood Ceiling BP"
+      }
+    },
+    "oneofeach":true,
+    "max":2,
+    "min":1
+  },
+  "SupplyDropB":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":250,
+        "min":250,
+        "weight":0,
+        "object":"556 Ammo"
+      },
+      "2":{
+        "max":100,
+        "min":100,
+        "weight":0,
+        "object":"Shotgun Shells"
+      },
+      "3":{
+        "max":10,
+        "min":10,
+        "weight":0,
+        "object":"F1 Grenade"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":0,
+        "object":"Explosive Charge"
+      },
+      "5":{
+        "max":5,
+        "min":5,
+        "weight":0,
+        "object":"Large Medkit"
+      },
+      "0":{
+        "max":250,
+        "min":250,
+        "weight":0,
+        "object":"9mm Ammo"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "ResearchKitSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":40,
+        "object":"Research Kit 1"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "WeaponPartSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":6,
+        "object":"Weapon Part 2"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"Weapon Part 3"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"Weapon Part 4"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Weapon Part 5"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Weapon Part 6"
+      },
+      "6":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Weapon Part 7"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":7,
+        "object":"Weapon Part 1"
+      }
+    },
+    "oneofeach":false,
+    "max":3,
+    "min":1
+  },
+  "SupplyDropE":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":20,
+        "min":10,
+        "weight":1,
+        "object":"Low Quality Metal"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Supply Signal"
+      }
+    },
+    "oneofeach":true,
+    "max":2,
+    "min":1
+  },
+  "WeaponModSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"Holo sight"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":10,
+        "object":"Laser Sight"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Silencer"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":15,
+        "object":"Flashlight Mod"
+      }
+    },
+    "oneofeach":false,
+    "max":1,
+    "min":1
+  },
+  "MedicalSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":10,
+        "object":"Blood Draw Kit"
+      },
+      "2":{
+        "max":3,
+        "min":2,
+        "weight":50,
+        "object":"Bandage"
+      },
+      "3":{
+        "max":8,
+        "min":5,
+        "weight":50,
+        "object":"Anti-Radiation Pills"
+      },
+      "4":{
+        "max":8,
+        "min":5,
+        "weight":20,
+        "object":"RadSuitLootList"
+      },
+      "5":{
+        "max":3,
+        "min":2,
+        "weight":15,
+        "object":"Large Medkit"
+      },
+      "0":{
+        "max":3,
+        "min":1,
+        "weight":20,
+        "object":"Small Medkit"
+      }
+    },
+    "oneofeach":false,
+    "max":3,
+    "min":1
+  },
+  "ToolSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"ResearchKitSpawnList"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":40,
+        "object":"RadSuitLootList"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Explosive Charge"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":30,
+        "object":"Blood Draw Kit"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "SupplyDropSpawnListMaster":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":7,
+        "object":"SupplyDropB"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":7,
+        "object":"SupplyDropC"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":7,
+        "object":"SupplyDropD"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"SupplyDropE"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":10,
+        "object":"SupplyDropA"
+      }
+    },
+    "oneofeach":false,
+    "max":1,
+    "min":1
+  },
+  "SupplyDropD":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":15,
+        "min":10,
+        "weight":1,
+        "object":"Low Quality Metal"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"MetalBuildingPartsList"
+      }
+    },
+    "oneofeach":true,
+    "max":2,
+    "min":1
+  },
+  "KevlarArmorLootList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Kevlar Helmet"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Kevlar Pants"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Kevlar Vest"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"Kevlar Boots"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "AILootList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":20,
+        "object":"AmmoSpawnList"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":20,
+        "object":"ConsumableSpawnList"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":30,
+        "object":"JunkSpawnList"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":15,
+        "object":"BlueprintSpawnList"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Pick Axe"
+      },
+      "6":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"ResearchKitSpawnList"
+      },
+      "7":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"KevlarArmorBPList"
+      },
+      "8":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"MetalBuildingPartsList"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":10,
+        "object":"LeatherArmorLootList"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "SupplyDropC":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":4,
+        "min":4,
+        "weight":0,
+        "object":"Wood Foundation"
+      },
+      "2":{
+        "max":20,
+        "min":20,
+        "weight":0,
+        "object":"Wood Pillar"
+      },
+      "3":{
+        "max":10,
+        "min":10,
+        "weight":0,
+        "object":"Wood Wall"
+      },
+      "4":{
+        "max":2,
+        "min":2,
+        "weight":0,
+        "object":"Wood Doorway"
+      },
+      "5":{
+        "max":2,
+        "min":2,
+        "weight":0,
+        "object":"Explosive Charge"
+      },
+      "0":{
+        "max":2,
+        "min":2,
+        "weight":0,
+        "object":"Metal Door"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "MP5SpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":12,
+        "min":10,
+        "weight":0,
+        "object":"9mm Ammo"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":0,
+        "object":"MP5A4"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "M4SpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":8,
+        "min":5,
+        "weight":0,
+        "object":"556 Ammo"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":0,
+        "object":"M4"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "RadSuitLootList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Rad Suit Helmet"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Rad Suit Pants"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Rad Suit Vest"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"Rad Suit Boots"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "PistolSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"9mm Pistol"
+      }
+    },
+    "oneofeach":false,
+    "max":1,
+    "min":1
+  },
+  "BoltActionRifleSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":10,
+        "min":8,
+        "weight":0,
+        "object":"556 Ammo"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":0,
+        "object":"Bolt Action Rifle"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "ConsumableSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":4,
+        "min":1,
+        "weight":10,
+        "object":"Can of Tuna"
+      },
+      "2":{
+        "max":2,
+        "min":1,
+        "weight":5,
+        "object":"Chocolate Bar"
+      },
+      "3":{
+        "max":4,
+        "min":1,
+        "weight":2,
+        "object":"Small Water Bottle"
+      },
+      "4":{
+        "max":6,
+        "min":1,
+        "weight":4,
+        "object":"Anti-Radiation Pills"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Small Rations"
+      },
+      "6":{
+        "max":3,
+        "min":1,
+        "weight":10,
+        "object":"Granola Bar"
+      },
+      "0":{
+        "max":3,
+        "min":1,
+        "weight":10,
+        "object":"Can of Beans"
+      }
+    },
+    "oneofeach":false,
+    "max":4,
+    "min":1
+  },
+  "ShotgunSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":6,
+        "min":4,
+        "weight":0,
+        "object":"Shotgun Shells"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":0,
+        "object":"Shotgun"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "WeaponSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":10,
+        "object":"P250SpawnList"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"ShotgunSpawnList"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"MP5SpawnList"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":50,
+        "object":"BlueprintSpawnList"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":30,
+        "object":"WeaponModSpawnList"
+      },
+      "6":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Explosive Charge"
+      },
+      "7":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"BoltActionRifleSpawnList"
+      },
+      "8":{
+        "max":1,
+        "min":1,
+        "weight":20,
+        "object":"nil"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"M4SpawnList"
+      }
+    },
+    "oneofeach":false,
+    "max":1,
+    "min":1
+  },
+  "P250SpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":15,
+        "min":12,
+        "weight":0,
+        "object":"9mm Ammo"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":0,
+        "object":"P250"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "AmmoSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":16,
+        "min":10,
+        "weight":30,
+        "object":"556 Ammo"
+      },
+      "2":{
+        "max":12,
+        "min":8,
+        "weight":30,
+        "object":"Shotgun Shells"
+      },
+      "3":{
+        "max":30,
+        "min":20,
+        "weight":30,
+        "object":"Gunpowder"
+      },
+      "4":{
+        "max":30,
+        "min":15,
+        "weight":20,
+        "object":"ToolSpawnList"
+      },
+      "0":{
+        "max":16,
+        "min":10,
+        "weight":40,
+        "object":"9mm Ammo"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "SupplyDropA":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":200,
+        "min":200,
+        "weight":0,
+        "object":"Metal Fragments"
+      },
+      "2":{
+        "max":50,
+        "min":50,
+        "weight":0,
+        "object":"Wood Planks"
+      },
+      "3":{
+        "max":10,
+        "min":5,
+        "weight":0,
+        "object":"Large Medkit"
+      },
+      "4":{
+        "max":5,
+        "min":2,
+        "weight":0,
+        "object":"Explosives"
+      },
+      "0":{
+        "max":200,
+        "min":200,
+        "weight":0,
+        "object":"Gunpowder"
+      }
+    },
+    "oneofeach":true,
+    "max":1,
+    "min":1
+  },
+  "LeatherArmorLootList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Leather Helmet"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Leather Pants"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Leather Vest"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"Leather Boots"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "ArmorPartSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":6,
+        "object":"Armor Part 2"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"Armor Part 3"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"Armor Part 4"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Armor Part 5"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Armor Part 6"
+      },
+      "6":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Armor Part 7"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":7,
+        "object":"Armor Part 1"
+      }
+    },
+    "oneofeach":false,
+    "max":3,
+    "min":1
+  },
+  "JunkSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":5,
+        "min":3,
+        "weight":10,
+        "object":"9mm Ammo"
+      },
+      "2":{
+        "max":4,
+        "min":3,
+        "weight":10,
+        "object":"556 Ammo"
+      },
+      "3":{
+        "max":4,
+        "min":3,
+        "weight":10,
+        "object":"Shotgun Shells"
+      },
+      "4":{
+        "max":4,
+        "min":2,
+        "weight":5,
+        "object":"Paper"
+      },
+      "5":{
+        "max":5,
+        "min":3,
+        "weight":10,
+        "object":"Cloth"
+      },
+      "6":{
+        "max":20,
+        "min":5,
+        "weight":10,
+        "object":"Gunpowder"
+      },
+      "7":{
+        "max":20,
+        "min":10,
+        "weight":10,
+        "object":"Metal Fragments"
+      },
+      "8":{
+        "max":20,
+        "min":2,
+        "weight":5,
+        "object":"ConsumableSpawnList"
+      },
+      "9":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Pick Axe"
+      },
+      "10":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Large Wood Storage"
+      },
+      "11":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Small Stash"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"Flare"
+      }
+    },
+    "oneofeach":false,
+    "max":3,
+    "min":1
+  },
+  "KevlarArmorBPList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"Kevlar Helmet BP"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"Kevlar Pants BP"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Kevlar Vest BP"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"Kevlar Boots BP"
+      }
+    },
+    "oneofeach":false,
+    "max":2,
+    "min":1
+  },
+  "WeaponBlueprintSpawnList":{
+    "nodupes":false,
+    "packages":{
+      "1":{
+        "max":1,
+        "min":1,
+        "weight":4,
+        "object":"MP5A4 Blueprint"
+      },
+      "2":{
+        "max":1,
+        "min":1,
+        "weight":3,
+        "object":"M4 Blueprint"
+      },
+      "3":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Shotgun Blueprint"
+      },
+      "4":{
+        "max":1,
+        "min":1,
+        "weight":2,
+        "object":"F1 Grenade Blueprint"
+      },
+      "5":{
+        "max":1,
+        "min":1,
+        "weight":1,
+        "object":"Explosive Charge Blueprint"
+      },
+      "0":{
+        "max":1,
+        "min":1,
+        "weight":5,
+        "object":"P250 Blueprint"
+      }
+    },
+    "oneofeach":false,
+    "max":1,
+    "min":1
+  }
+}
