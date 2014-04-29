@@ -1,26 +1,19 @@
 {
   "SendAllChat": true,
-  "ChatName": "管理员",
+  "ChatName": "管理员(Admin)",
   "LastMessageID": 0,
   "MessageDelay": 80,
   "SendMessagesInRandomOrder": true,
   "SendNotice": false,
   "MessageList": [
     [
-      "欢迎来到RustHou,为更好反外挂本服只支持英文名,不支持非法字符",
-      "Only English name is allowed in this server.",
+      "欢迎来到RustHou国际服务器",
       "招募管理员中,招募和投诉YY:323507 QQ群 324280682",
       "We are looking for active admin player, contact reckhou."
     ],
     [
-      "本服夜晚比正常服短一半 使用/votekick 玩家名 输入/Yes投票踢除作弊玩家",
-      "Night length 1/2 /votekick PlayerName then /Yes to kick cheaters",
-      "招募管理员中,招募和投诉YY:323507 QQ群 324280682",
-      "We are looking for active admin player, contact reckhou."
-    ],
-    [
-      "每晚6-8点发放装备 使用Pick Axe移除不需要的建筑",
-      "Gears & Ammo will be sent 6-8PM GMT+8 every night",
+      "本服夜晚比正常服短一半 使用Pick Axe移除自己地基上不需要的建筑",
+      "Night length 1/2, Use Pick Axe to remove wrong things above your own foundation",
       "招募管理员中,招募和投诉YY:323507 QQ群 324280682",
       "We are looking for active admin player, contact reckhou."
     ]
